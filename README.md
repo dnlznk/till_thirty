@@ -1,6 +1,6 @@
 # till_thirty
 
-[![When is a gift not a gift](https://www.youtube.com/watch?v=dvQyhEt6EXg/0.jpg)](https://www.youtube.com/watch?v=dvQyhEt6EXg "When is a gift not a gift")
+[![When is a gift not a gift](https://www.youtube.com/watch?v=dvQyhEt6EXg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dvQyhEt6EXg)
 
 [Current keymap](./keymap.pdf)
 
@@ -30,3 +30,7 @@ This creates the uf2 file to flash the keyboard.
 Press the reset button on the keyboard 2 times.
 
 Drag & drop the uf2 file to the newly connected device.
+
+## Keycap origin
+
+[![Keycap origin](https://www.youtube.com/watch?v=GjkQNAZbxKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=GjkQNAZbxKY)
