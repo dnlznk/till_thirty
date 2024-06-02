@@ -1,6 +1,6 @@
 # till_thirty
 
-[![When is a gift not a gift](https://www.youtube.com/watch?v=dvQyhEt6EXg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dvQyhEt6EXg)
+[![When is a gift not a gift](https://img.youtube.com/vi/dvQyhEt6EXg/hqdefault.jpg)](https://www.youtube.com/watch?v=dvQyhEt6EXg)
 
 [Current keymap](./keymap.pdf)
 
@@ -33,4 +33,4 @@ Drag & drop the uf2 file to the newly connected device.
 
 ## Keycap origin
 
-[![Keycap origin](https://www.youtube.com/watch?v=GjkQNAZbxKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=GjkQNAZbxKY)
+[![Keycap origin](https://img.youtube.com/vi/GjkQNAZbxKY/hqdefault.jpg)](https://www.youtube.com/watch?v=GjkQNAZbxKY)
