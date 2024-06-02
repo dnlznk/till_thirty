@@ -33,4 +33,4 @@ Drag & drop the uf2 file to the newly connected device.
 
 ## Keycap origin
 
-[![Keycap origin](https://img.youtube.com/vi/GjkQNAZbxKY/hqdefault.jpg)](https://www.youtube.com/watch?v=GjkQNAZbxKY)
+[![Keycap origin](https://img.youtube.com/vi/GjkQNAZbxKY/hqdefault.jpg)](https://www.youtube.com/watch?v=GjkQNAZbxKY&t=309s)
