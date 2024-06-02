@@ -2,7 +2,7 @@
 
 [![When is a gift not a gift](https://www.youtube.com/watch?v=dvQyhEt6EXg/0.jpg)](https://www.youtube.com/watch?v=dvQyhEt6EXg "When is a gift not a gift")
 
-[Current keymap](./keymap.pdf))
+[Current keymap](./keymap.pdf)
 
 
 ## Install QMK
